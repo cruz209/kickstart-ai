@@ -1,12 +1,12 @@
-🚀 LiftOff
+🚀 kickstart-ai
 
 AI-powered code scaffolding that actually respects your brain.
-LiftOff turns a short natural-language request into a clean, debuggable project skeleton — Flask apps, FastAPI services, Streamlit dashboards, RAG demos, whatever. It generates the folder structure, starter code, configs, templates, and even validates the output so you don’t get hallucinated junk.
+kickstart-ai turns a short natural-language request into a clean, debuggable project skeleton — Flask apps, FastAPI services, Streamlit dashboards, RAG demos, whatever. It generates the folder structure, starter code, configs, templates, and even validates the output so you don’t get hallucinated junk.
 
 Not a Cursor clone. Not a “press button → production SaaS” hallucination machine.
 Just a reliable launchpad that gets you from idea → working scaffold fast, while keeping you in control of the real coding.
 
-✨ What LiftOff Does
+✨ What kickstart-ai Does
 
 Parses vague user intent
 
@@ -24,7 +24,7 @@ Warns you about errors before you even touch the code
 
 🔧 Why It’s Useful
 
-LiftOff gives you the code you would've written anyway, just faster:
+kickstart-ai gives you the code you would've written anyway, just faster:
 
 Perfect for prototypes, demos, hackathon starters
 
@@ -36,7 +36,7 @@ Avoids hallucinated garbage — you get clean TODOs, not fake logic
 
 🧠 Philosophy
 
-LiftOff is a launchpad, not a replacement for developers.
+kickstart-ai is a launchpad, not a replacement for developers.
 It handles the boring scaffolding so you can focus on the real engineering.
 
 🗺️ Roadmap
